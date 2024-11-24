@@ -7,25 +7,10 @@ wsdl = 'http://localhost:57185/LibroService.svc?wsdl'
 # Crear un cliente SOAP
 client = Client(wsdl)
 
-
-
-# Eliminar un libro
-response = client.service.DeleteLibro(libroID=4)
-if response:
-    print("El libro fue eliminado exitosamente.")
-else:
-    print("Error al eliminar el libro.")
-
-
 # Obtener un libro por ID
 libroID = 4
 response = client.service.GetLibroById(libroID)
 print(response)
-
-
-"""
-
-
 
 # Obtener todos los libros
 response = client.service.GetAllLibros()
@@ -62,6 +47,9 @@ else:
     print("Error al actualizar el libro.")
 
 
-
-"""
-    
+# Eliminar un libro
+response = client.service.DeleteLibro(libroID=4)
+if response:
+    print("El libro fue eliminado exitosamente.")
+else:
+    print("Error al eliminar el libro.")
