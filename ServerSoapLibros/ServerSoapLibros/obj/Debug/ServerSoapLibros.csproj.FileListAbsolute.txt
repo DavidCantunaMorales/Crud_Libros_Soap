@@ -1,0 +1,7 @@
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Soap_Libros\ServerSoapLibros\ServerSoapLibros\bin\ServerSoapLibros.dll.config
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Soap_Libros\ServerSoapLibros\ServerSoapLibros\bin\ServerSoapLibros.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Soap_Libros\ServerSoapLibros\ServerSoapLibros\bin\ServerSoapLibros.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Soap_Libros\ServerSoapLibros\ServerSoapLibros\obj\Debug\ServerSoapLibros.csproj.AssemblyReference.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Soap_Libros\ServerSoapLibros\ServerSoapLibros\obj\Debug\ServerSoapLibros.csproj.CoreCompileInputs.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Soap_Libros\ServerSoapLibros\ServerSoapLibros\obj\Debug\ServerSoapLibros.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Soap_Libros\ServerSoapLibros\ServerSoapLibros\obj\Debug\ServerSoapLibros.pdb
